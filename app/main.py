@@ -13,7 +13,7 @@ from src.digit_recognition import load_trained_model, extract_digits
 from src.solver import solve_sudoku
 
 # Set up the page
-st.title("Sudoku Solver")
+st.title("Sudoku Vision")
 
 # Create a widget to upload an image
 st.markdown("## Upload a Sudoku image or take a photo")
