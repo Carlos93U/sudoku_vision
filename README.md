@@ -5,7 +5,7 @@
 This project solves Sudoku puzzles from images using computer vision and deep learning. It involves digit recognition, grid extraction, and recursive solution algorithms. Users can upload a Sudoku image or take a photo, and the application returns the solved puzzle.
 
 <div align="center">
-    <img src="docs/gif_sudo.gif" alt="Sudoku Solver Animation" style="width:60%;">
+    <img src="docs/gif_sudo.gif" alt="Sudoku Solver Animation" style="width:80%;">
 </div>
 
 **Data Source**: The project relies on custom images of Sudoku grids and training data for digit recognition.
@@ -108,7 +108,9 @@ sudoku_vision/
 
 The application allows users to solve Sudoku puzzles from uploaded images, displaying the original puzzle and the solved puzzle side by side.
 
-![Sample Glacier Comparison](docs/solution_example.jpeg) 
+<div align="center">
+    <img src="docs/solution_example.jpeg" alt="Sudoku Solver Animation">
+</div>
 
 ## Contributing
 
