@@ -89,6 +89,7 @@ sudoku_vision/
 │
 ├── models/                     # Saved models for digit recognition
 │
+├── docs/                       # Project documentation
 ├── src/                        # Source code for core functionalities     
 │   ├── preprocessing.py        # Image preprocessing and grid extraction
 │   ├── digit_recognition.py    # Digit classification using CNN
@@ -98,8 +99,6 @@ sudoku_vision/
 │   └── main.py                 # Entry point for the Streamlit app
 ├── requirements.txt            # List of dependencies
 └── README.md                   # Project documentation
-              # Project documentation
-
 ```
 
 ## Usage Examples
