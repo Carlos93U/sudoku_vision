@@ -106,7 +106,9 @@ sudoku_vision/
 
 ### Sudoku Puzzle Solution
 
-The application allows users to solve Sudoku puzzles from uploaded images, displaying the original puzzle and the solved puzzle side by side.
+The application allows users to solve Sudoku puzzles from uploaded images, displaying the original puzzle and the solved puzzle side by side. You can try out the Sudoku Vision application live on Streamlit:
+
+[🔗 Launch the Sudoku Vision App on Streamlit](https://bbmwa8runvimkto6yebm4r.streamlit.app/)
 
 <div align="center">
     <img src="docs/solution_example.jpeg" alt="Sudoku Solver Animation">

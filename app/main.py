@@ -63,4 +63,4 @@ if img_file_buffer is not None:
         # Link to download the solution image
         st.markdown(get_image_download_link(solution_image, "solved_sudoku.jpg", 'Download solution image'), unsafe_allow_html=True)
     else:
-        st.write("The Sudoku could not be solved.")
+        st.write("Unable to solve the Sudoku puzzle. Please ensure the photo is clear and well-aligned, and try again.")
