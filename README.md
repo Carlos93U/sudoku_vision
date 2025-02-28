@@ -18,7 +18,6 @@ This project solves Sudoku puzzles from images using computer vision and deep le
 - [Running the Application](#running-the-application)
 - [Project Structure](#project-structure)
 - [Usage Examples](#usage-examples)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Project Features
@@ -112,11 +111,6 @@ The application allows users to solve Sudoku puzzles from uploaded images, displ
 <div align="center">
     <img src="docs/solution_example.jpeg" alt="Sudoku Solver Animation">
 </div>
-
-## Contributing
-
-If you would like to contribute to the project, please fork the repository and create a pull request with your proposed changes. All contributions are welcome.
-
 
 ## Contact
 
